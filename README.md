@@ -1,3 +1,9 @@
+## Disclaimer sobre os Dados
+Os dados utilizados neste projeto são **fictícios** e foram gerados exclusivamente para fins educacionais e demonstrativos. Eles **não refletem informações reais** e podem conter inconsistências, imprecisões ou valores sem sentido. Qualquer semelhança com dados reais é meta coincidência. 
+
+Caso os dados sejam baseados em fontes públicas, foram utilizados respeitando as diretrizes de privacidade e uso adequado. Os insights apresenados nã devem ser usados para tomada de decisões reais, pois podem não representar a realidade de um negócio ou cenário específico.
+
+
 ## 1. Introdução
 
 A VelozCompras é um e-commerce que atua em diversos segmentos, oferecendo produtos eletrônicos, esportivos, roupas e outros itens para um público diversificado. Com o objetivo de entender melhor o comportamento dos clientes, o desempenho das vendas e a eficiência do portfólio de produtos, realizamos uma análise detalhada dos dados extraídos do nosso Dashboard no Power BI.
